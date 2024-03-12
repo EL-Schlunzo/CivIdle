@@ -568,7 +568,7 @@ export const DE = {
    PlayerMapMenu: "Handel",
    Milk: "Milch",
    Pizza: "Pizza",
-   SiegeRam: "Belagerungswidder",
+   SiegeRam: "Rammbock",
    Caravel: "Karavelle",
    Galleon: "Galeone",
    Frigate: "Fregatte",
